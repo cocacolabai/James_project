@@ -1,0 +1,24 @@
+,image_files,caption,prob
+0,./test/images/img00019.jpg,a view of a city street with trees.,3.5079785866948073e-06
+1,./test/images/img00014.jpg,a view of a city street with a hanging.,7.436909108696765e-07
+2,./test/images/img00016.jpg,a person sitting on a bench in a park.,0.0014405843340930824
+3,./test/images/img00005.jpg,a view of a road with trees in the background.,0.00014304825845026114
+4,./test/images/img00006.jpg,a view of a road with trees in the background.,8.830442482777555e-05
+5,./test/images/img00008.jpg,a view of a river with a fence.,4.175649221335387e-06
+6,./test/images/img00012.jpg,a view of a city street with a hanging.,8.88708613955984e-07
+7,./test/images/img00021.jpg,a view of a large body of water.,0.00012590312632332774
+8,./test/images/img00015.jpg,a view of a hanging in the beautiful.,5.351092099900423e-05
+9,./test/images/img00003.jpg,a wooden bench sitting in the middle of a meal.,0.0002510492913259841
+10,./test/images/img00002.jpg,a wooden bench sitting in the middle of a meal.,0.0001511563767947021
+11,./test/images/img00017.jpg,a person sitting on a bench in a park.,0.0009647375557538353
+12,./test/images/img00013.jpg,a view of a city street at night.,0.00041917296642851566
+13,./test/images/img00011.jpg,a wooden bench in the middle of a meal.,0.0002058518254240269
+14,./test/images/img00009.jpg,a bench in the middle of a meal.,0.0003778516415017799
+15,./test/images/img00001.jpg,a wooden bench sitting in front of a window.,0.0005597263805596501
+16,./test/images/img00022.jpg,a man is standing in the grass with a bird.,6.091092203773864e-06
+17,./test/images/img00007.jpg,a view of a road with trees in the background.,0.00011802827558409491
+18,./test/images/img00000.jpg,a person is flying a kite in the sky.,0.0001066609018019407
+19,./test/images/img00018.jpg,a person sitting on a bench in a park.,0.002115155564807851
+20,./test/images/img00020.jpg,a view of a hanging asleep with surfboards in the background.,2.0876840520014918e-05
+21,./test/images/img00010.jpg,a view of a river with trees in the background.,5.5116293008770444e-05
+22,./test/images/img00004.jpg,a view of a city street with trees.,1.958163098307453e-05
